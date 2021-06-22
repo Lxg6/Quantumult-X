@@ -8,7 +8,7 @@
  方式2:打开京喜工厂，收取电力，提示获取cookie成功
  方式3:打开京喜财富岛，手动成功提现一次，提示获取cookie成功
  
- * 选择任意一个获取token方式(推荐1或2)，提示获取cookie成功即可。
+ * 选择任意一个获取token方式(推荐1或2)，提示获取cookie成功即可
 
   hostname = wq.jd.com, m.jingxi.com
 
